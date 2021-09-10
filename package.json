@@ -41,7 +41,7 @@
     "run-series": "^1.1.9",
     "simple-get": "^4.0.0",
     "simple-peer": "^9.11.0",
-    "simple-websocket": "git+https://github.com/gkachru/simple-websocket.git",
+    "simple-websocket": "git+https://github.com/joravkumar/simple-websocket.git",
     "string2compact": "^1.3.0",
     "unordered-array-remove": "^1.0.2",
     "ws": "^7.4.5"
